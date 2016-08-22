@@ -123,6 +123,7 @@
 	</div>
 	<!-- /.row -->
 
+
 	<script>
 		var result = '${msg}';
 
